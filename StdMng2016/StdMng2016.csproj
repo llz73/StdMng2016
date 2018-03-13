@@ -200,6 +200,7 @@
     <Content Include="T1.txt" />
     <Content Include="T2.txt" />
     <Content Include="T3.txt" />
+    <Content Include="T4.txt" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\btn_Ok.png" />
