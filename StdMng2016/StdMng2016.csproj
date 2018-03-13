@@ -198,6 +198,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="T1.txt" />
+    <Content Include="T2.txt" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\btn_Ok.png" />
